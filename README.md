@@ -16,18 +16,18 @@
 - [x] Conditional Statements (`if`, `else`)
 - [x] Modulus Operator (`%`)
 - [x] User Input (`Scanner`)
-- [ ] Constructors
-- [ ] Method Overloading
-- [ ] Encapsulation
+- [x] Constructors
+- [x] Method Overloading
+- [x] Encapsulation
 - [ ] Static vs Instance Members
 
 ---
 
 ### Module 2 — Object-Oriented Programming
-- [ ] Objects & State
-- [ ] Classes & Responsibilities
-- [ ] Getters & Setters
-- [ ] Encapsulation
+- [x] Objects & State
+- [x] Classes & Responsibilities
+- [x] Getters & Setters
+- [x] Encapsulation
 - [ ] Composition
 - [ ] Inheritance
 - [ ] Polymorphism
