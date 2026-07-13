@@ -15,7 +15,7 @@
 - [x] Comparison Operators
 - [x] Conditional Statements (`if`, `else`)
 - [x] Modulus Operator (`%`)
-- [ ] User Input (`Scanner`)
+- [x] User Input (`Scanner`)
 - [ ] Constructors
 - [ ] Method Overloading
 - [ ] Encapsulation
