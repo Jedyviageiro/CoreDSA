@@ -48,13 +48,13 @@
 ---
 
 ### Module 4 — Arrays
-- [ ] Arrays
-- [ ] Dynamic Arrays
-- [ ] MyArrayList
+- [x] Arrays
+- [x] Dynamic Arrays
+- [x] MyArrayList
 - [ ] Traversal
-- [ ] Insertions
-- [ ] Deletions
-- [ ] Searching
+- [x] Insertions
+- [x] Deletions
+- [x] Searching
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Prefix Sum
